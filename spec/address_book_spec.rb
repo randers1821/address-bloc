@@ -137,4 +137,5 @@ end
        expect(entry).to be_nil
      end
   end
+
 end
